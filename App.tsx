@@ -195,7 +195,7 @@ export default function App() {
                 Seninle yeni anılar üretmek istiyorum...
               </h2>
               <p className="text-white/50 font-body text-base">
-                Seni yeniden mutlu etmek, Whatsapp'tan o eski günlerdeki gibi gülümsetmek istiyorum.
+                Seninle yeniden konuşmak istiyorum.
               </p>
             </div>
 
